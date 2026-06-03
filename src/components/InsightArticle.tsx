@@ -38,7 +38,7 @@ export default function InsightArticle({ insight }: { insight: Insight }) {
         }}
       >
         <Link
-          href="/#projects"
+          href="/"
           style={{
             display: "inline-flex",
             alignItems: "center",
