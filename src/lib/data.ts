@@ -1,8 +1,8 @@
 export const PERSONAL = {
   name: "Nakhul Krishna",
-  role: "Flutter Engineer",
+  role: "Software Engineer",
   tagline: "Building production-grade mobile apps with Flutter",
-  bio: "Flutter Engineer experienced in building and shipping production-grade Android and iOS applications for startups, healthcare platforms, and client projects. Skilled in Clean Architecture, Riverpod, Firebase, REST APIs, and scalable mobile architecture — from design to deployment.",
+  bio: "Software Engineer experienced in building and shipping production-grade Android and iOS applications for startups, healthcare platforms, and client projects. Skilled in Clean Architecture, Riverpod, Firebase, REST APIs, and scalable mobile architecture — from design to deployment.",
   location: "India",
   email: "nakhulkrishna253@gmail.com",
   github: "https://github.com/nakhulkrishna",
@@ -139,7 +139,7 @@ export const PROJECTS = [
 
 export const EXPERIENCE = [
   {
-    role: "Flutter Engineer",
+    role: "Software Engineer",
     company: "Code-ox Technologies LLP",
     period: "2025 – Present",
     type: "Full-time",

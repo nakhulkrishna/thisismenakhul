@@ -13,10 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nakhul Krishna — Flutter Developer",
+  title: "Nakhul Krishna — Software Engineer",
   description:
-    "Flutter developer crafting beautiful, high-performance cross-platform apps. Available for freelance and full-time opportunities.",
-  keywords: ["Flutter", "Dart", "Mobile Developer", "Cross-platform", "iOS", "Android"],
+    "Software Engineer specialising in Flutter, building beautiful, high-performance cross-platform apps. Available for freelance and full-time opportunities.",
+  keywords: ["Flutter", "Dart", "Software Engineer", "Mobile Developer", "Cross-platform", "iOS", "Android"],
 };
 
 export default function RootLayout({
